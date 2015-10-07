@@ -8,3 +8,4 @@ makes sense to make a script for them.
 - Check a port's status: `sudo lsof -i :<port-number>`
 - Show empterature: `/opt/vc/bin/vcgencmd measure_temp`
 - Launch tmux in 256 color mode: `TERM=screen-256color-bce tmux`
+- Recursively convert from  DOS line endings to unix line endings: `find . -type f | xargs sed -i 's/^M//g'`
