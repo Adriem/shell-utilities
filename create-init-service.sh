@@ -1,5 +1,5 @@
 #!/bin/sh
-# Creates a service that runs a node application on startup
+# Creates a service that runs a given command on startup
 
 # init.d SCRIPT
 # ==============================================================================
