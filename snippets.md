@@ -2,7 +2,7 @@ Code Snippets
 =============
 
 These are some useful snippets of code to remember. They are so small that don't
-makes sense to do a script for them.
+makes sense to make a script for them.
 
 - Check free disk space: `df` or `df -Bm`
 - Check a port's status: `sudo lsof -i :<port-number>`
